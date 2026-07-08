@@ -6,7 +6,6 @@
 
 A production-grade **Retrieval-Augmented Generation (RAG)** assistant for medical, legal, and academic PDFs. Upload documents, ask questions, and get answers that are **grounded in cited sources** — every claim links back to a file, page number, and verbatim quote, and the model explicitly abstains when the documents don't contain the answer.
 
-<!-- TODO: replace with a real demo GIF: docs/demo.gif -->
 ![Demo](docs/demo.gif)
 
 ## Why this exists
