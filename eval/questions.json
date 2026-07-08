@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "Who are the three student authors of the Digital Holographic Microscope report?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 1,
+      "expected_keywords": ["Işık", "Abdioğlu", "Mukhtarov"]
+    },
+    {
+      "question": "Who was the project consultant for this graduation project?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 1,
+      "expected_keywords": ["Üvet"]
+    },
+    {
+      "question": "Which university and department produced this report?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 1,
+      "expected_keywords": ["Yildiz Technical University", "Mechatronics"]
+    },
+    {
+      "question": "What camera module was selected for the microscope, and what is its resolution in megapixels?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 38,
+      "expected_keywords": ["Raspberry Pi HQ", "12.3"]
+    },
+    {
+      "question": "Which microcontroller was chosen and how much RAM does it have?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 39,
+      "expected_keywords": ["Raspberry Pi 4", "4GB"]
+    },
+    {
+      "question": "What stepper motor model was selected for the linear stage?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 40,
+      "expected_keywords": ["Nema 11"]
+    },
+    {
+      "question": "What is the diameter of the pinhole used in the optical setup?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 42,
+      "expected_keywords": ["1 micrometer"]
+    },
+    {
+      "question": "What magnification objective lens is used in the microscope?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 33,
+      "expected_keywords": ["10X"]
+    },
+    {
+      "question": "Which image file format was selected for storing results, and why?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 44,
+      "expected_keywords": ["TIFF", "lossless"]
+    },
+    {
+      "question": "What are the outer dimensions of the microscope's body?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 30,
+      "expected_keywords": ["25x25x40"]
+    },
+    {
+      "question": "Listing the optical components in order, what is the light path from the laser source to the camera?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 20,
+      "expected_keywords": ["aspherical", "plano convex", "pinhole", "objective"]
+    },
+    {
+      "question": "What changed between the original and updated design in terms of motor, motor driver, stage design, and optical design?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 48,
+      "expected_keywords": ["Nema 11", "A4988"]
+    },
+    {
+      "question": "Why doesn't this project's holography method require a reference beam, and what advantage does that give?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 22,
+      "expected_keywords": ["reference beam", "cheaper"]
+    },
+    {
+      "question": "What risks were identified for this project, and what solutions were proposed for each?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 64,
+      "expected_keywords": ["memory", "Bluetooth", "surface fitting"]
+    },
+    {
+      "question": "What precision does the linear stage achieve per motor step, and how is that number calculated?",
+      "expected_source": "dhm_report.pdf",
+      "expected_page": 36,
+      "expected_keywords": ["0.04"]
+    },
+    {
+      "question": "What's the capital of Mongolia?",
+      "expected_source": null,
+      "expected_page": null,
+      "expected_keywords": []
+    },
+    {
+      "question": "What battery life was actually measured during real-world testing of the microscope?",
+      "expected_source": null,
+      "expected_page": null,
+      "expected_keywords": []
+    },
+    {
+      "question": "What programming language was the final graphical user interface (GUI) written in?",
+      "expected_source": null,
+      "expected_page": null,
+      "expected_keywords": []
+    },
+    {
+      "question": "What was the total project budget in US dollars?",
+      "expected_source": null,
+      "expected_page": null,
+      "expected_keywords": []
+    },
+    {
+      "question": "Was this work published in a peer-reviewed journal, and if so, which one?",
+      "expected_source": null,
+      "expected_page": null,
+      "expected_keywords": []
+    }
+  ]
+}
